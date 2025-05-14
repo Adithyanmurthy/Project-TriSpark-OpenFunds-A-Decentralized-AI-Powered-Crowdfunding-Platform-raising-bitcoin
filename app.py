@@ -283,7 +283,7 @@ def show_auth_page():
         
         if st.session_state.auth_mode == 'login':
             st.markdown('<div class="auth-header">', unsafe_allow_html=True)
-            st.markdown('<h2>Log In to Your Account</h2>', unsafe_allow_html=True)
+            st.markdown('<h2>Log Into Your Account</h2>', unsafe_allow_html=True)
             st.markdown('<p style="color: rgba(255,255,255,0.7);">Welcome back to OpenFunds</p>', unsafe_allow_html=True)
             st.markdown('</div>', unsafe_allow_html=True)
             
