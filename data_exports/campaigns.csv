@@ -1,0 +1,17 @@
+id,title,description,btc_address,target_amount,current_amount,owner_name,status,created_at
+1,Rebuild: Flood Relief 2025,"Help thousands affected by the 2025 Kerala floods. Your BTC donations will fund emergency shelter, food, and medical support. All funds are transparently recorded.
+",2N7DoD1edbhWw1Z1rN7HbpvzjPvF9LKjPbE,1.5000000000000004,1.67,RescueOps,Funded,2025-04-06 01:46:08
+2,Solar Lanterns for Rural Homes,"Help us distribute clean solar lanterns to 100+ homes in rural Karnataka
+",2N7DoD1edbhWw1Z1rN7HbpvzjPvF9LKjPbE,1.5,0.14,BrightVillage Team,Active,2025-04-16 14:40:54
+3,Medical Aid for Flood Survivors,"We aim to provide medical kits and first-aid to 300+ flood-affected families in Kerala.
+",2N5AxXzpA2YzDtwNWu3NaKnpCBWqz7eM8mK,2.0,2.0,ReliefForce India,Funded,2025-04-16 14:43:02
+4,Books for Remote Schools,"Help us raise funds to donate learning materials to underfunded schools in tribal areas.
+",2N8h74PMWqVz2BoXxzAtch2cV6fAhvH9gUK,0.75,0.05,EduSpark Foundation,Active,2025-04-16 14:46:20
+5,Rainwater Harvesting for Dry Villages,"Weâ€™re installing 5 rainwater collection systems in water-scarce tribal villages. Help us fund materials and construction.
+",2N4wXqksNVeHFkQ3qAZsCArW2vVKpYxDAEh,1.2,0.0,AquaCare Collective,Active,2025-04-16 14:58:31
+6,Clean Water for Rural Schools,"We are installing water purification units in 20+ rural schools to ensure access to safe drinking water for over 1,000 students. The funds will cover installation, maintenance, and educational posters on hygiene awareness.
+",2N7DoD1edbhWw1Z1rN7HbpvzjPvF9LKjPbE,0.75,0.060000000000000005,Aqua4All Foundation,Active,2025-04-16 15:20:26
+7, Women-Led Organic Farming in Kerala Description,"We are empowering 150+ women in Wayanad to launch organic farms using unused community land. Funds will support training, seeds, compost bins, and marketing. Backed by local NGOs and cooperatives, this project promotes eco-farming, income generation, and gender equality. It aligns with UN SDGs and aims to create a long-term, sustainable impact in rural Kerala.",2N7DoD1edbhWw1Z1rN7HbpvzjPvF9LKjPbE,0.8,0.0,GreenRoots Collective,Active,2025-04-16 16:09:16
+8,Solar Microgrid for Himalayan Village,"We aim to install a solar-powered microgrid for an off-grid village in Uttarakhand, improving electricity access for over 40 families. Funds will cover solar panels, battery systems, and local technician training. This community-driven project reduces reliance on diesel, supports education, and empowers locals with sustainable energy. We’re collaborating with local panchayats and engineers for on-ground execution.",2N8yT7uhdEpFAkqjQmZcX4tRtX6k9PX6qTa,1.25,0.11000000000000001,Himalayan Energy Co-op,Active,2025-04-16 16:31:28
+9,Emergency Flood Relief for Assam Villages,"We are organizing urgent relief for flood-affected families in Assam. Funds will help distribute food, drinking water, and sanitation kits to over 500 people. Partnering with local NGOs to reach remote communities quickly and effectively.",16UjcYNBG9GTK4uq2f7yYEbuifqCzoLMGS,2.7000000000000015,0.0, AsRelief,Active,2025-05-13 17:34:19
+10,Digital Learning for Underserved Students,Help us provide laptops and internet access to low-income students to enable remote learning during school disruptions. We aim to bridge the digital divide in education.,2N7DoD1edbhWw1Z1rN7HbpvzjPvF9LKjPiH,1.75,0.0,digitaldrivers,Active,2025-05-13 19:25:53
