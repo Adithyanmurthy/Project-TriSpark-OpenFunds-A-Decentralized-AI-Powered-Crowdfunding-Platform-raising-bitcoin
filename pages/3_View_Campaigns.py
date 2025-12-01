@@ -177,7 +177,7 @@ else:
                             success = Campaign.donate(campaign['id'], donation_amount)
                             if success:
                                 st.success(f"Donated {format_btc(donation_amount)} successfully!")
-                                st.experimental_rerun()
+                                st.rerun()
                             else:
                                 st.error("Failed to process donation. Please try again.")
                     else:
